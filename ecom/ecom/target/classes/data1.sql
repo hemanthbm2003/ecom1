@@ -1,0 +1,14 @@
+--INSERT INTO Product (name, description, brand, price, category, release_date, available, quantity)
+--VALUES ('Tesla Model 3', 'Electric sedan with long range battery', 'Tesla', 3500000.00, 'Car', '2023-08-10', TRUE, 5);
+--
+--INSERT INTO Product (name, description, brand, price, category, release_date, available, quantity)
+--VALUES ('Toyota Camry', 'Luxury hybrid sedan with premium comfort', 'Toyota', 3200000.00, 'Car', '2023-07-20', TRUE, 4);
+--
+--INSERT INTO Product (name, description, brand, price, category, release_date, available, quantity)
+--VALUES ('BMW X5', 'Luxury SUV with powerful engine and AWD', 'BMW', 7500000.00, 'Car', '2023-06-15', TRUE, 3);
+--
+--INSERT INTO Product (name, description, brand, price, category, release_date, available, quantity)
+--VALUES ('Mercedes C-Class', 'Premium sedan with advanced safety features', 'Mercedes-Benz', 4800000.00, 'Car', '2023-05-25', FALSE, 2);
+--
+--INSERT INTO Product (name, description, brand, price, category, release_date, available, quantity)
+--VALUES ('Audi Q7', 'Luxury 7-seater SUV with Quattro technology', 'Audi', 6800000.00, 'Car', '2023-08-05', TRUE, 3);
